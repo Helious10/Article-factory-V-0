@@ -400,11 +400,11 @@
   /***/
   function _(module, exports, __webpack_require__) {
     __webpack_require__(
-    /*! C:\Users\10ani\OneDrive\Desktop\MEAN_STACK\Blog-using-mean-master-origina\Article-factory\FRONTEND\node_modules\bootstrap\dist\css\bootstrap.css */
+    /*! C:\Users\10ani\OneDrive\Desktop\MEAN_STACK\Article-factory\FRONTEND\node_modules\bootstrap\dist\css\bootstrap.css */
     "./node_modules/bootstrap/dist/css/bootstrap.css");
 
     module.exports = __webpack_require__(
-    /*! C:\Users\10ani\OneDrive\Desktop\MEAN_STACK\Blog-using-mean-master-origina\Article-factory\FRONTEND\src\styles.css */
+    /*! C:\Users\10ani\OneDrive\Desktop\MEAN_STACK\Article-factory\FRONTEND\src\styles.css */
     "./src/styles.css");
     /***/
   }
