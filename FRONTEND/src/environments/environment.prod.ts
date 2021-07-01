@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  apiUrl : "https://article-factory.com/api"
+  apiUrl : "https://article-factory.herokuapp.com/api"
   
 };
