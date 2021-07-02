@@ -6,7 +6,7 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "anirban",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
@@ -28,5 +28,8 @@
     "url": "https://github.com/Helious10/Article-factory-V-0/issues"
   },
   "homepage": "https://github.com/Helious10/Article-factory-V-0#readme",
+  "directories": {
+    "doc": "docs"
+  },
   "description": ""
 }

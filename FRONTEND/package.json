@@ -55,10 +55,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Helious10/Article-factory-V-0.git"
+    "url": "git+https://github.com/Helious10/article-factory.git"
   },
   "bugs": {
-    "url": "https://github.com/Helious10/Article-factory-V-0/issues"
+    "url": "https://github.com/Helious10/article-factory/issues"
   },
-  "homepage": "https://github.com/Helious10/Article-factory-V-0#readme"
+  "homepage": "https://github.com/Helious10/article-factory#readme"
 }
